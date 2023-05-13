@@ -1,6 +1,6 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="ConsoleApp_eCommerce_0"></a>ConsoleApp: eCommerce</h1>
 <h3 class="code-line" data-line-start=1 data-line-end=2 ><a id="_First_console_app_in_C__1"></a><em>First console app in C#</em></h3>
-<p class="has-line-data" data-line-start="3" data-line-end="4"><img src="https://www.bing.com/images/blob?bcid=qPli0zt8k5cFgVblLnx1SQbK.wSf.....xM" alt="Image"></p>
+<p class="has-line-data" data-line-start="3" data-line-end="4"><img src="[https://www.bing.com/images/blob?bcid=qPli0zt8k5cFgVblLnx1SQbK.wSf.....xM](https://th.bing.com/th/id/R.8cbba77d93a96e22ae977c527f031932?rik=X48i8zBVKSYmMA&pid=ImgRaw&r=0)" alt="Image"></p>
 <p class="has-line-data" data-line-start="6" data-line-end="7">Console App developed in C# that simulates the operations of an E-Commerce platform. The development of the app is part of a C# language and .NET framework study path. Through an initial menu, it’s possible to access the execution of the following operations:</p>
 <ul>
 <li class="has-line-data" data-line-start="7" data-line-end="8">Print list of customers</li>
